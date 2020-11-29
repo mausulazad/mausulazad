@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Unsupervised learning, Recommender Systems, Deep Learning based Meta-Learning and many other things!
 - 📫 How to reach me: mausulazad495@gmail.com
 
-<!--[Mausul's Github Stats](https://github-readme-stats.vercel.app/api?username=mausulazad&show_icons=true&theme=radical)
+<!--[Mausul's Github Stats](https://github-readme-stats.vercel.app/api?username=mausulazad&show_icons=true&theme=radical) -->
