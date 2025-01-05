@@ -11,4 +11,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning in depth about Advanced RAG techniques and distributed training in PyTorch.
 
 Here is my personal website: [mausulazad.notion.site](https://mausulazad.notion.site/Abu-Tyeb-Azad-Mausul-1698f393875b809187d8c3e782f0d49e)
+
+*I am interested in job opportunities and collaborating on machine learning-focused industry and research projects. Please feel free to reach out to me at [mausulazad495@gmail.com](mailto:mausulazad495@gmail.com) or [LinkedIn](https://www.linkedin.com/in/abu-tyeb-azad). 
 <!-- [Mausul's Github Stats](https://github-readme-stats.vercel.app/api?username=mausulazad&show_icons=true&theme=radical) -->
